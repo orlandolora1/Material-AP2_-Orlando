@@ -53,3 +53,6 @@ C:\Users\hp\Desktop\Aplicada 1\AP2_Verduras\obj\Debug\net6.0\refint\AP2_Verduras
 C:\Users\hp\Desktop\Aplicada 1\AP2_Verduras\obj\Debug\net6.0\AP2_Verduras.pdb
 C:\Users\hp\Desktop\Aplicada 1\AP2_Verduras\obj\Debug\net6.0\AP2_Verduras.genruntimeconfig.cache
 C:\Users\hp\Desktop\Aplicada 1\AP2_Verduras\obj\Debug\net6.0\ref\AP2_Verduras.dll
+C:\Users\Lora\OneDrive\Escritorio\MATERIAL_P2 Orlando\AP2 _ Orlando\obj\Debug\net6.0\AP2_Verduras.dll
+C:\Users\Lora\OneDrive\Escritorio\MATERIAL_P2 Orlando\AP2 _ Orlando\obj\Debug\net6.0\refint\AP2_Verduras.dll
+C:\Users\Lora\OneDrive\Escritorio\MATERIAL_P2 Orlando\AP2 _ Orlando\obj\Debug\net6.0\AP2_Verduras.pdb

@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Models",
+    "\\Pages",
+    "\\Pages\\Consulta"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\Pages\\Index.razor",
   "PreviewInSolutionExplorer": false
 }
