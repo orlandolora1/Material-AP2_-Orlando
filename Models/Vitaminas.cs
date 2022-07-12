@@ -5,6 +5,6 @@ public class Vitaminas
     [Key]
     public int VitaminaId { get; set; }
     public string Descripcion { get; set; }
-    public int UnidadDeMedida { get; set; }
-    
+    public string UnidadDeMedida { get; set; }
+    public int Existencia { get; set; }
 }

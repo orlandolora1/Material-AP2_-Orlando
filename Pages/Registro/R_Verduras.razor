@@ -32,7 +32,7 @@
         <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg">
         </div>
         </div>
-        @* Verdura DETALLE *@
+                @* Verdura DETALLE *@
             <fieldset class="border-success">
                 <div class="row">
                 @* Vitamina Id *@
@@ -51,6 +51,11 @@
                 <div class="col-2">
                     <label>Cantidad</label>  
                     <input type="number" class="form-control" aria-label="Recipient's username" aria-describedby="basic-addon2"> 
+                </div>
+                @*Existencia*@
+                <div class="col-2">
+                    <label>Descripcion</label>   
+                    <input type="text" class="form-control" aria-label="Recipient's username" aria-describedby="basic-addon2">
                 </div>
                @*Boton de agregar detalle*@
                 <div class="col-2">
@@ -72,6 +77,7 @@
                         <th>Descripcion</th> 
                         <th>Cantidad</th>
                         <th>Unidad de medida</th>
+                        <th>Existencia</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -90,6 +96,7 @@
                 <button type="button" class="btn btn-outline-primary" > <i class="oi oi-file" /> Nuevo</button>
                 <button type="submit" class="btn btn-outline-success"> <i class="oi oi-document" /> Guardar</button>
                 <button type="button" class="btn btn-outline-danger" ><i class="oi oi-trash" /> Eliminar</button>
+                <button type="button" class="btn btn-outline-danger" ><i class="oi oi-trash" />QuitarItem</button>
             </div>
         </div>
 </EditForm>
